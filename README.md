@@ -1,2 +1,2 @@
 # DeepSV
-![DeepSV](https://github.com/CSuperlei/DeepSV/tree/master/Pic/DeepSV.png)
+![DeepSV](https://github.com/CSuperlei/DeepSV/raw/master/Pic/DeepSV.png)
